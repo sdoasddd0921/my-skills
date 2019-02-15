@@ -36,3 +36,11 @@
 - **README 文档**  
 进入仓库或者任意目录下，会自动在仓库下方显示当前文件夹内的 README.md 文档。  
 在 **项目根目录** 中的 README 里，链接地址里写 `../other-branch` 可以跳转至该仓库的其他分支。
+
+## Github Pages
+
+- 每个项目可以在设置里启用 Github Pages 来托管当前的项目，只能托管静态服务。
+
+- 新建一个项目，命名为：`<Github 用户名>.github.io`，并且在设置里开启 Github Pages 服务，只有这个项目能够设置 Github Pages 的域名。
+
+- 每个项目只能用 `master` 分支或者 `gh-pages` 分支托管当前的项目。
